@@ -1,0 +1,86 @@
+baseurl = "https://tkware.info/"
+title = "TKWare Mega Microblog"
+author = "Michael Parks"
+
+# Shown in the side menu
+copyright = "Copyright:<br>Words: <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'><i class='fa fa-creative-commons' aria-hidden='true'></i>BY SA 4.0</a><br>Code: <a href='http://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0</a>"
+canonifyurls = true
+paginate = 3
+theme = "Blackburn"
+
+
+[permalinks]
+post = "/:year/:month/:day/:title/"
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Shenanigans upon a thousand equally unprecedented shenangians"
+  brand = "TKWare"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "tkwaremegamicroblog"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "2006 Jan 02, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Quotes"
+    pre = "<i class='fa fa-quote-right fa-fw'></i>"
+    weight = 3
+    url = "/quotes/"
+  [[menu.main]]
+    name = "TSAS"
+    pre = "<i class='fa fa-calendar fa-fw'></i>"
+    weight = 3
+    url = "/TSAS/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+  twitter = "tkware"
+  #facebook = "*"
+  #googleplus = "*"
+  #weibo = "*"
+
+  # SNS photo/video sharing
+  #instagram = "*"
+  #flickr = "*"
+  #pinterest = "*"
+  youtube = "NekoKaruna"
+  #vimeo = "*"
+  #vine = "*"
+  #slideshare = "*"
+
+  # SNS career oriented
+  #linkedin = "*"
+  #xing = "*"
+
+  # SNS news
+  #reddit = "*"
+  hackernews = "Karunamon"
+
+  # Techie
+  github = "Karunamon"
+  stackexchange = "1206968"
+  #bitbucket = "*"
+  #stackoverflow = "Mikey T.K."
+
