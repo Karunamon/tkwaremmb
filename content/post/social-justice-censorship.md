@@ -14,8 +14,7 @@ These cases may not seem immediately connected - on their face, one is about a b
 
 The one thread connecting both of these issues is social justice.
 
-Whither social justice?
------------------------
+## Whither social justice?
 
 "Social Justice" as a movement can be compared favorably to a religion in many ways.
 
@@ -29,8 +28,7 @@ Background is necessary to make sense of our earlier comparison to Eich's remova
 
 And now we've picked the thread back up: What's difference between Eich's departure and Mozilla and, say, [Target Australia and GTA5](http://www.ign.com/articles/2014/12/04/targets-gta-5-snub-is-misinformed-and-achieves-nothing)?
 
-Actually, it's about mass outrage in popular culture
-----------------------------------------------------
+## Actually, it's about mass outrage in popular culture
 
 There really isn't one. Eich was forced out of Mozilla (at least that is my read on the consensus) after a mass outrage campaign launched following his donations to an obvious group of bigots. Target was forced to pull Grand Theft Auto 5 from stores in Australia after a similar mass outrage campaign organized by feminists took off.
 
@@ -40,10 +38,7 @@ Social justice is more known for its outrage campaigns. A successful campaign to
 
 Notice the theme, here? The social justice warrior says, in effect: "Your views are bad, therefore you should not be allowed to speak."
 
-[pullquote]The social justice warrior says, in effect: "Your views are bad, therefore you should not be allowed to speak"[/pullquote]
-
-But, the first amendment..
----------------------------
+## But, the first amendment..
 
 Confronting a social justice warrior with this apparent contradiction will inevitably lead to the response that "the first amendment only applies to governments", and since they're not petitioning the government to shut someone up, that they aren't doing anything wrong.
 
@@ -57,18 +52,17 @@ However, the problem here is not the actions of the store, it's with the mass ou
 
 I separate organic consensus vs it's aspartame-like fake version by its method of organization. Did you, personally, decide to *take the action* to stop shopping at a bookstore, because what they did **personally offended** you, or did you actually not decide to do anything of the sort, and instead got a link by a friend to a button to click that says "I'm offended by this"?
 
-[caption width="520" align="alignnone"]<img src="https://farm6.staticflickr.com/5055/5537457305_8758d78ac0_o.png" width="520" height="292" alt="by opensource.com - https://www.flickr.com/photos/opensourceway/5537457305/" class /> Is it really that easy? Should it be?[/caption]
+{{< figure src="https://farm6.staticflickr.com/5055/5537457305_8758d78ac0_o.png" title="Change button on a PC" caption='Is it really that easy? Should it be?' >}}
 
 **Organic consensus** is what happens when a business annoys the local community. Say, an energy company's [hydraulic fracturing operation dumping toxic chemicals into the local water supply](http://www.desmogblog.com/fracking-the-future/). The locals, en masse, start hounding the company, the government, anything necessary to get their concern (ya know, toxic things in the water) dealt with.
 
-**Manufactured consensus** is what happens when somebody posts a petition online, saying in effect "This person is bad, and here's why you should be offended, go get 'em!", in effect presenting a threat to a company that doesn't actually exist.
+**Manufactured consensus** is what happens when somebody posts a petition online, saying in effect "This person is bad, and here's why you should be offended, go get 'em!" - in effect, presenting a threat to a company that doesn't actually exist.
 
 Another difference is that manufactured consensus generally surrounds issues that don't actually hurt anyone (inasmuch as you can be hurt by words.. sticks and stones and all that), while organic consensus does. Organic consensus is responsible for **literally** every instance of forward social progress made in the USA. The rights of blacks, women, LGBT's all of those wins were due to *personally involved* people choosing to rise up, organize on their own, and defeat an actual problem that was actually negatively impacting their lives.
 
 Manufactured consensus, however, can count its victories by the number of opponents silenced.
 
-The highway to censorship is paved with good intentions
--------------------------------------------------------
+## The highway to censorship is paved with good intentions
 
 I'll ask my earlier question again: Who does the silencing of a bigoted author actually help?
 
@@ -90,8 +84,7 @@ And then I ended up on the other side, where my hatred of coverage-for-access, f
 
 If you knew me, you'd know why this is laughably false.
 
-Easy thinking is seldom good thinking
--------------------------------------
+## Easy thinking is seldom good thinking
 
 I've come to a revelation - maybe this is just me growing up a little, or something else, but I now believe that "easy" thoughts are usually the wrong ones. The easy thought "I've got time for this assignment, it's easy and a full two days away". The easy thought "that guy in front of me on the road is *trying* to piss me off". The easy thought "this guy is an enemy, fuck him and the horse he rode in on" - these are all dangerous for different reasons.
 
@@ -103,13 +96,14 @@ I **vehemently** disagree with the arguments that letting someone who disagrees 
 
 Not that this idea is practical in the first place - the average bookstore has a frankly ludicrous amount of opinion based text - do you think the corporation (or the people running it) agrees with even most of that content? The idea is absurd on its face!
 
-A petition of my own
---------------------
+## A petition of my own
 
-I want you, the person reading this, to resist the censorship mindset, because it's an easy (wrong) thought.
+I want **you**, the person reading this, to resist the censorship mindset, because it's an easy (and so, wrong) thought.
 
-I want you to think twice before clicking that "I'm offended" button to take the microphone from someone else, even if they are a legitimately horrible person. Think about what your goals are - do you want to attack the other person, or do you want to help remove inequality?
+I want you to think twice before clicking that "I'm offended" button to take the microphone from someone else, even if they are a legitimately horrible person.
+
+Think about what your goals are - do you want to attack the other person, or do you want to help remove inequality?
 
 I want you to consider how you would feel if you were to get on the wrong side of the social justice types (and by extension: the masses) calling you a horrible person, no matter how unlikely you think that might be. How would those accusations taint anything you ever had to say? Do you want to support such unthoughtful outrage?
 
-Our culture can only meaningfully advance in the presence of a free marketplace of ideas, absent attempts by anyone, no matter how well-meaning, to control that flow of ideas.
+**Our culture can only meaningfully advance in the presence of a free marketplace of ideas, absent attempts by anyone, no matter how well-meaning, to control that flow of ideas.**
