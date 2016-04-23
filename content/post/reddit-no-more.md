@@ -18,7 +18,7 @@ Until 2015. 2015 brought us the age of mass censorship, lies upon lies, and the 
 
 # From free speech to censorship
 
-Starting this brouhaha, Reddit's corporate staff, led by Alexis Ohanian (aka kn0thing), outright banned a community, known as "fatpeoplehate", dedicated to making fun of obese people. Their stated reason for this was the behavior of the people running the community causing off-site "harassment" of people (["we're banning behavior, not ideas"](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/)). But even if this could be taken at face vale, this wouldn't explain their subsequent banning of any other communities with the same stated goal, regardless of their behavior or moderators. The actions of the staff directly contradict the stated explanation.
+Starting this brouhaha, Reddit's corporate staff, led by Alexis Ohanian (aka kn0thing), outright banned a community, known as "fatpeoplehate", dedicated to making fun of obese people. Their stated reason for this was the behavior of the people running the community causing off-site "harassment" of people (["we're banning behavior, not ideas"](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/)). But even if this could be taken at face value, this wouldn't explain their subsequent banning of any other communities with the same stated goal, regardless of their behavior or moderators. The actions of the staff directly contradict the stated explanation.
 
 Furthermore, when asked, the staff refuses to give any specific examples of said harassment.
 
