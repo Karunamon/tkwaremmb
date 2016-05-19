@@ -52,7 +52,7 @@ However, the problem here is not the actions of the store, it's with the mass ou
 
 I separate organic consensus vs it's aspartame-like fake version by its method of organization. Did you, personally, decide to *take the action* to stop shopping at a bookstore, because what they did **personally offended** you, or did you actually not decide to do anything of the sort, and instead got a link by a friend to a button to click that says "I'm offended by this"?
 
-{{< figure src="https://farm6.staticflickr.com/5055/5537457305_8758d78ac0_o.png" title="Change button on a PC" caption='Is it really that easy? Should it be?' >}}
+{{< figure src="https://farm6.staticflickr.com/5055/5537457305_8758d78ac0_o.png" title="Change button on a PC" caption="Is it really that easy? Should it be?" >}}
 
 **Organic consensus** is what happens when a business annoys the local community. Say, an energy company's [hydraulic fracturing operation dumping toxic chemicals into the local water supply](http://www.desmogblog.com/fracking-the-future/). The locals, en masse, start hounding the company, the government, anything necessary to get their concern (ya know, toxic things in the water) dealt with.
 
