@@ -164,8 +164,6 @@ Again, no such statement.
 
 Congratulations, "tonymacx86 LLC Legal"! Out of the 6 elements required to make a DMCA notice, you successfully completed zero of them.
 
-<a href="http://tkware.info/wp-content/uploads/2014/11/Epic-fail-guy-dance.gif"><img class="alignnone size-full wp-image-26" src="http://tkware.info/wp-content/uploads/2014/11/Epic-fail-guy-dance.gif" alt="Epic Fail Guy Dance" width="400" height="400" /></a>
-
 Speaking of confirming suspicions, this should raise further question in your mind if you plan on using any Tonymacx86 tools for your Hackintosh needs. Why would a legitimate organization/person/group/thing take the extraordinary step of trying to intimidate random bloggers with fake legal notices?
 
 Should any "tonymacx86 Legal" people be reading this, consider this your notification that any further communiqué with me will be published, critiqued, and quite possibly mocked on this website. Your "confidentiality notice" is about as worthless as your "DMCA".

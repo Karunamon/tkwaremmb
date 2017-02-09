@@ -24,6 +24,7 @@ The Reddit Gifts for Teachers exchange follows *mostly* the same principle as th
 So far, so good. This has been going on for a number of years, and led to some very happy teachers and students *all over the world*
 
 ## So what happened?
+
 Of course, with something so unambiguously good and useful, naturally, Reddit would find a way to ruin it. This year, instead of running this gift exchange the usual way, they chose to partner with a third party company, DonorsChoose, who's job it would be to handle the incoming requests and the vetting.
 
 Problem? I'm glad you asked: DonorsChoose is *closed* to any organization outside the United States. **This means that any school not located in this country is unwelcome in donation drive**. Furthermore, they also require prospective donate-ees to provide a picture of their classroom and pupils, which is higly scary, and in many cases, absolutely illegal to provide.
@@ -46,7 +47,8 @@ That entire explanatory paragraph is BS, in other words. Thankyous aren't really
 
 So, BS from Reddit staff. This is not unheard of (though BS in the context of a charity donation drive is definitely a new low). What's the ulterior motive here?
 
-##Cost control
+## Cost control
+
 There's a rule here: *Cui bono?* - or in English, "Who benefits?" - or perhaps more commonly encountered: "Follow the money."
 
 And, under this lens, the reason for the change becomes clear. By partnering with the third party who won't work with non-American schools, the amount of total donors will necessarily fall off a cliff, necessitating much less staff involvement.

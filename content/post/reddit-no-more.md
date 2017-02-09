@@ -12,8 +12,6 @@ topics = ['Rants&Raves', 'Your Rights Online']
 
 Ah reddit.. the front page of the internet.. once [described by its founders](http://www.bbc.com/news/technology-19975375) as a place for free speech and free discussion.
 
-<img src="https://tkware.info/static/RedditProhibited.png" alt="Reddit &quot;snoo&quot; logo crossed out" width="574" height="574"/>
-
 Until 2015. 2015 brought us the age of mass censorship, lies upon lies, and the exposure of the full depth of the corruption of the moderators of Reddit's default communities (those seen when not logged into the site, which represents the great majority of their users.)
 
 # From free speech to censorship
@@ -22,7 +20,7 @@ Starting this brouhaha, Reddit's corporate staff, led by Alexis Ohanian (aka kn0
 
 Furthermore, when asked, the staff refuses to give any specific examples of said harassment.
 
-Later, after Ellen Pao's (aka: ekjp) ouster and the installation of the original cofounder Steve Huffman (aka: spez), reddit was caught [colluding with](http://www.businessinsider.com.au/reddit-unbanned-russia-magic-mushrooms-germany-watchpeopledie-localised-censorship-2015-8) the governments of Russia and Germany to remove (or rather, make invisible) posts which are illegal in those countries, despite being based in the USA, a country with strong free speech protections. When questioned on this, Steve Huffman was [quoted](https://www.reddit.com/r/technology/comments/3gynwu/reddit_is_now_censoring_posts_and_communities_on/cu308ps) as saying:
+Later, after Ellen Pao's (aka: ekjp) ouster and the installation of the original co-founder Steve Huffman (aka: spez), reddit was caught [colluding with](http://www.businessinsider.com.au/reddit-unbanned-russia-magic-mushrooms-germany-watchpeopledie-localised-censorship-2015-8) the governments of Russia and Germany to remove (or rather, make invisible) posts which are illegal in those countries, despite being based in the USA, a country with strong free speech protections. When questioned on this, Steve Huffman was [quoted](https://www.reddit.com/r/technology/comments/3gynwu/reddit_is_now_censoring_posts_and_communities_on/cu308ps) as saying:
 
 >As Reddit grows internationally, relationships with governments beyond our own in the United States become relevant.
 
@@ -30,9 +28,9 @@ Later, after Ellen Pao's (aka: ekjp) ouster and the installation of the original
 
 >Mentioning things unpleasant to the US government is not against the law. Hosting classified documents is
 
-Someone should tell this to the New York Times, original leakers of the Pentagon papers. It's rather shocking that the cofounder of a self-proclaimed "free speech" area doesn't know that classification has little meaning to people who are not US government employees who didn't take an oath to protect classified material..
+Someone should tell this to the New York Times, original leakers of the Pentagon papers. It's rather shocking that the co-founder of a self-proclaimed "free speech" area doesn't know that classification has little meaning to people who are not US government employees who didn't take an oath to protect classified material.. (or else a certain newspaper could have been prosecuted for releasing the "pentagon papers" back in the day...)
 
-A later question about why Reddit isn't following the other bits of german law, such as censoring adult content before 11pm or verifying dates of birth, remained unanswered. Presumably they are just waiting until someone with the appropriate credentials complains.
+A later question about why Reddit isn't following the other bits of German law, such as censoring adult content before 11pm or verifying dates of birth, remained unanswered. Presumably they are just waiting until someone with the appropriate credentials complains.
 
 Here's another example: A self-proclaimed racist community, known as "coontown", was later removed, not for harassment, not for breaking any of the stated rules of the site, but because of ["a disproportionate amount of time spent dealing with a handful of communities"](https://www.reddit.com/r/announcements/comments/3fx2au/content_policy_update/). Let's not mince words here, coontown, if the name wasn't a dead giveaway, was nasty, hurtful, serious racism. Stormfront/KKK-tier "black people are responsible for every wrong ever" type posting. That said - Reddit has no rules against ignorant, bigoted racism.
 
@@ -42,7 +40,7 @@ Perhaps the founders of an open discussion board should not have founded one wit
 
 The *utter contempt* that reddit staff has for the intelligence of their users is breathtaking.
 
-And if not contempt, the only other explanation for this behavior is rank incompetence. Either should send a user running in the other direction. But the admins selectively enforcing the rules of Reddit is not the only problem on the siste.
+And if not contempt, the only other explanation for this behavior is rank incompetence. Either should send a user running in the other direction. But the admins selectively enforcing the rules of Reddit is not the only problem on the site.
 
 # Further Lies
 
@@ -76,6 +74,6 @@ Here's hoping the next "front page of the internet" retains their principles, ra
 
 ## Voat?
 
-I don't think it's going to be [Voat](https://voat.co) either. Voat is basically a rewritten Reddit, but has some serious scaling problems (at time of writing, restricting new users signups as the site began to collapse under its own weight), and is just one wrong hire away from repeating Reddit's mistakes in exactly the same way. I've got an account there, but I don't really mess with the site much.
+I don't think it's going to be [Voat](https://voat.co) either. Voat is basically a rewritten Reddit, but has some serious scaling problems (at time of writing, restricting new users sign-ups as the site began to collapse under its own weight), and is just one wrong hire away from repeating Reddit's mistakes in exactly the same way. I've got an account there, but I don't really mess with the site much.
 
 The next forum will be one that is extremely democratic and takes control from the people running the site and leaves it in the hands of the most important people - its users.

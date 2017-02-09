@@ -63,13 +63,13 @@ if error:
 Guess what? Your line is now 5 characters too long, and will be flagged by most
 automated analysis tools.
 
-The PEP8 solution for this is, to put it mildly, braindead. In order to get the
+The PEP8 solution for this is, to put it mildly, brain dead. In order to get the
 above line of code under 79 characters, I'd need to do one of the following:
 
 
 ## Poor solutions to poor problems
 
-Python has a (nifty?) little trick: implciit string concatenation.
+Python has a (nifty?) little trick: implicit string concatenation.
 
 This solution is non-optimal because it violates one of Python's main design tenets,
 laid out in [PEP20](https://www.python.org/dev/peps/pep-0020/), the "Zen of Python",
@@ -157,7 +157,7 @@ build_url = "%s/pipelines/%s/jobs/%s/builds/%s" % (
     )
 ```
 
-Ick. This carries the negative of making all of those 4 parameters positional,
+Icky. This carries the negative of making all of those 4 parameters positional,
 and less readable still.
 
 Discussing PEP8 online is usually a losing proposition as well...

@@ -52,13 +52,11 @@ However, the problem here is not the actions of the store, it's with the mass ou
 
 I separate organic consensus vs it's aspartame-like fake version by its method of organization. Did you, personally, decide to *take the action* to stop shopping at a bookstore, because what they did **personally offended** you, or did you actually not decide to do anything of the sort, and instead got a link by a friend to a button to click that says "I'm offended by this"?
 
-{{< figure src="https://farm6.staticflickr.com/5055/5537457305_8758d78ac0_o.png" title="Change button on a PC" caption="Is it really that easy? Should it be?" >}}
-
 **Organic consensus** is what happens when a business annoys the local community. Say, an energy company's [hydraulic fracturing operation dumping toxic chemicals into the local water supply](http://www.desmogblog.com/fracking-the-future/). The locals, en masse, start hounding the company, the government, anything necessary to get their concern (ya know, toxic things in the water) dealt with.
 
 **Manufactured consensus** is what happens when somebody posts a petition online, saying in effect "This person is bad, and here's why you should be offended, go get 'em!" - in effect, presenting a threat to a company that doesn't actually exist.
 
-Another difference is that manufactured consensus generally surrounds issues that don't actually hurt anyone (inasmuch as you can be hurt by words.. sticks and stones and all that), while organic consensus does. Organic consensus is responsible for **literally** every instance of forward social progress made in the USA. The rights of blacks, women, LGBT's all of those wins were due to *personally involved* people choosing to rise up, organize on their own, and defeat an actual problem that was actually negatively impacting their lives.
+Another difference is that manufactured consensus generally surrounds issues that don't actually hurt anyone (inasmuch as you can be hurt by words.. sticks and stones and all that), while organic consensus does. Organic consensus is responsible for **literally** every instance of forward social progress made in the USA. The rights of blacks, women, LGBTs, and so on, all of those wins were due to *personally involved* people choosing to rise up, organize on their own, and defeat an actual problem that was actually negatively impacting their lives.
 
 Manufactured consensus, however, can count its victories by the number of opponents silenced.
 
@@ -66,7 +64,7 @@ Manufactured consensus, however, can count its victories by the number of oppone
 
 I'll ask my earlier question again: Who does the silencing of a bigoted author actually help?
 
-Does it help LGBT's in any conceivable way? Well, the author is still going to be a massive bigot, he's still going to sell his books to other bigots (maybe just not at a dying bookseller), the other bigots are not going to be any less bigoted without his words, and now he has a legitimate case that his opponents think he's so dangerous he shouldn't be heard!
+Does it help LGBTs in any conceivable way? Well, the author is still going to be a massive bigot, he's still going to sell his books to other bigots (maybe just not at a dying bookseller), the other bigots are not going to be any less bigoted without his words, and now he has a legitimate case that his opponents think he's so dangerous he shouldn't be heard!
 
 The answer is an obvious "no".
 
@@ -86,7 +84,7 @@ If you knew me, you'd know why this is laughably false.
 
 ## Easy thinking is seldom good thinking
 
-I've come to a revelation - maybe this is just me growing up a little, or something else, but I now believe that "easy" thoughts are usually the wrong ones. The easy thought "I've got time for this assignment, it's easy and a full two days away". The easy thought "that guy in front of me on the road is *trying* to piss me off". The easy thought "this guy is an enemy, fuck him and the horse he rode in on" - these are all dangerous for different reasons.
+I've come to a revelation - maybe this is just me growing up a little, but I now believe that "easy" thoughts are usually the wrong ones. The easy thought "I've got time for this assignment, it's easy and a full two days away". The easy thought "that guy in front of me on the road is *trying* to piss me off". The easy thought "this guy is an enemy, fuck him and the horse he rode in on" - these are all dangerous for different reasons.
 
 The last one particularly so, since it makes it all too easy to ignore any legitimate points that an ideologically opposed person may have.
 

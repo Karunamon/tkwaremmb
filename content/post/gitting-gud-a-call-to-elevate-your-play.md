@@ -67,7 +67,7 @@ Maybe John Walker needs to git gud[^fn-walker].
 And the next time this phrase is directed at you, maybe you should too, rather than complaining about how mean the internet is or pontificating on how snarky comments about people pursuing excellence is somehow a poor reflection on the whole of humanity.
 
 
-[^fn-whine]: Note that there is a difference between saying that a game sucks, and saying that a game sucks **because of its difficulty**. Difficulty can be added in a number of ways.. more enemies, tighter constraints.. but also bad design and controls. The latter is what's known as being [nintendo hard](http://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard)
+[^fn-whine]: Note that there is a difference between saying that a game sucks, and saying that a game sucks **because of its difficulty**. Difficulty can be added in a number of ways.. more enemies, tighter constraints.. but also bad design and controls. The latter is what's known as being [Nintendo hard](http://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard)
 
 [^fn-pointers]: [Relevant XKCD](https://imgs.xkcd.com/comics/pointers.png)
 

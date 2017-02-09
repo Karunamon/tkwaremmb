@@ -33,7 +33,7 @@ Among the positive changes introduced by TTK, there's a great steaming pile of s
 
 **Effectively, the moment TTK launched, existing players of the game lost access to a vast swathe of the game's content.**
 
-While the practice of taking things away from people who've already paid for it is not exactly new, (Sony did it with the Playstation 3's Other OS feature), it's rather new in the field of standalone games. It's also detestable, downright fraudulent, and if this kind of behavior keeps up, expect enough people to get annoyed to bring lawsuits and regulators into the mix. The idea that anyone should be forced to cough up $40 to enjoy something they *already spent around $100 on* is absurd!
+While the practice of taking things away from people who've already paid for it is not exactly new, (Sony did it with the PlayStation 3's Other OS feature), it's rather new in the field of standalone games. It's also detestable, downright fraudulent, and if this kind of behavior keeps up, expect enough people to get annoyed to bring lawsuits and regulators into the mix. The idea that anyone should be forced to cough up $40 to enjoy something they *already spent around $100 on* is absurd!
 
 Remember how I said earlier that Destiny is a great deal for new players? It is - but keep in mind, Bungie may decide to screw you the same ways many of us have already been screwed. Keep that in mind before giving them any money whatsoever - and this is why I suggest buying the game used.
 

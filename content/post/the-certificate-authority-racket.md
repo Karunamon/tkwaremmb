@@ -63,7 +63,7 @@ And here we run into another problem:
 
 ## Trusting the trusted third party
 
-There are literally **a few hundred** CA's that your browser trusts.
+There are literally **a few hundred** CAs that your browser trusts.
 
 Example: [Here's a list of what Mozilla packages with
 Firefox.](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/included/)
@@ -72,7 +72,7 @@ the world. Do you know them? What knowledge do you have of how they became CAs?
 What about their practices? **In short, there are more certificate authorities
 than you have the ability and time to personally vet.**
 
-CA's include those in governments with less than stellar records when it comes
+CAs include those in governments with less than stellar records when it comes
 to privacy and coercion. For instance, you can live in any country in the world,
 and if the United States were to coerce a CA to make a certificate for, say,
 Facebook.com, the US government now has the ability to snoop on the traffic of
@@ -84,7 +84,7 @@ a marker that this CA has been vetted?"
 
 ## Outsourcing trust is a horrible idea
 
-This supposedly through and comprehensive audit doesn't stop CA's from being
+This supposedly through and comprehensive audit doesn't stop CAs from being
 broken into and bad certificates issued. Entire CA companies, such as
 [DigiNotar](https://threatpost.com/final-report-diginotar-hack-shows-total-compromise-ca-servers-103112/77170/),
 have been broken into and hackers have issued their own certificates for very
@@ -105,9 +105,9 @@ The audit is not an ongoing process, (save for a semi-yearly re-certification)
 and once the health insp- sorry, auditors have left, the CA has no reason to
 continue abiding by those standards.
 
-Now, in theory, a CA that's been hacked badly enough will be untrusted by the
+Now, in theory, a CA that's been hacked badly enough will be de-trusted by the
 browsers and the operating systems, by way of removing their certificate from
-the trusted list, but in practice, this is never done. To my knowlegde, a CA has
+the trusted list, but in practice, this is never done. To my knowledge, a CA has
 never been decertified for mere incompetence.
 
 Also, an audit only superficially covers negligence, but not coercion at all.
