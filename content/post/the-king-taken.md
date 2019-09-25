@@ -1,12 +1,14 @@
-+++
-date = "2015-10-06T13:38:26-06:00"
-description = "A case study in the mighty falling"
-draft = false
-tags = ['Scams', 'Destiny']
-title = "The King, Taken: How Bungie Ripped Off Its Most Loyal Fans"
-topics = ["The Vidya"]
-
-+++
+---
+date: 2015-10-06T13:38:26-06:00
+description: A case study in the mighty falling
+draft: false
+tags:
+- Scams
+- Destiny
+title: 'The King, Taken: How Bungie Ripped Off Its Most Loyal Fans'
+topics:
+- The Vidya
+---
 
 If you're not familiar with [Bungie](https://www.bungie.net), the original creators of the Halo series, and most recently, their MMO-come-FPS [Destiny](https://www.bungie.net/en/pub/AboutDestiny), I daresay you've been living under the video game equivalent of a rock. Destiny takes the better parts of a Halo-esque world design, mixes it with a Borderlands-like loot system, and serves up some deliciousness that is now one of the most fun experiences available on the modern console generations.
 

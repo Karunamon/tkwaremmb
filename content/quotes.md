@@ -1,12 +1,11 @@
-+++
-date = "2016-04-21T11:22:47-06:00"
-description = "Various interesting words from various interesting people online"
-draft = false
-tags = []
-title = "Quotes"
-topics = []
-
-+++
+---
+date: 2016-04-21T11:22:47-06:00
+description: Various interesting words from various interesting people online
+draft: false
+tags: []
+title: Quotes
+topics: []
+---
 
 *In response to someone refusing to check a source because of the source's biases:*  
 

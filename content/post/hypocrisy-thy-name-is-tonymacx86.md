@@ -1,12 +1,15 @@
-+++
-date = "2013-01-27T15:09:26-06:00"
-description = "Or: Why do I keep getting UniBeast install failures?"
-draft = false
-tags = ['hackintosh', 'piracy']
-title = "Hypocrisy, thy name is tonymacx86"
-topics = ['Tech', 'Rants & Raves']
-
-+++
+---
+date: 2013-01-27T15:09:26-06:00
+description: 'Or: Why do I keep getting UniBeast install failures?'
+draft: false
+tags:
+- hackintosh
+- piracy
+title: Hypocrisy, thy name is tonymacx86
+topics:
+- Tech
+- Rants & Raves
+---
 
 So I've spent this past weekend in a kind of interesting
 situation. I own two macs, you see. One at home (which is very much

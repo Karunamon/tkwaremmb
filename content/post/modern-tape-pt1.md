@@ -1,12 +1,14 @@
-+++
-date = "2015-10-04T11:43:26-06:00"
-description = "Part 1"
-draft = false
-tags = []
-title = "Modern Tape Backup - The Why"
-topics = ['Tech', 'Enterprise']
-series = "Modern Tape Backup"
-+++
+---
+date: 2015-10-04T11:43:26-06:00
+description: Part 1
+draft: false
+series: Modern Tape Backup
+tags: []
+title: Modern Tape Backup - The Why
+topics:
+- Tech
+- Enterprise
+---
 
 Ask a sysadmin nowadays about tape backup, and you'll get a lot of answers, most of them negative. Here are some choice quotes from a question (is tape backup viable nowadays?) floated to some friends and a few IRC channels:
 

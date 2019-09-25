@@ -1,12 +1,12 @@
-+++
-date = "2013-01-29T01:18:02-06:00"
-description = "Fake legal threats for fun and profit!"
-draft = false
-tags = []
-title = "Honor Among Thieves: The Tonymacx86 hypocrisy becomes a story"
-topics = ['Rants & Raves']
-
-+++
+---
+date: 2013-01-29T01:18:02-06:00
+description: Fake legal threats for fun and profit!
+draft: false
+tags: []
+title: 'Honor Among Thieves: The Tonymacx86 hypocrisy becomes a story'
+topics:
+- Rants & Raves
+---
 
 Well, that was unexpected.
 

@@ -1,12 +1,15 @@
-+++
-date = "2017-02-02T17:00:00-06:00"
-description = "Thoughts on a few years of community administration"
-draft = false
-tags = ['moderation', 'communities']
-title = "Community management philosophies"
-topics = ['Tech', 'Philosophy']
-
-+++
+---
+date: 2017-02-02T17:00:00-06:00
+description: Thoughts on a few years of community administration
+draft: false
+tags:
+- moderation
+- communities
+title: Community management philosophies
+topics:
+- Tech
+- Philosophy
+---
 
 I've been on both sides of web communities over my years. From a medium sized board of anime enthusiasts many years ago, to a 4chan janitor, to a subreddit, and now, most recently, a small cluster of IRC channels... I've seen a lot. I've seen some shit.
 

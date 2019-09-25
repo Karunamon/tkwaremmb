@@ -1,12 +1,14 @@
-+++
-date = "2015-09-03T13:51:26-06:00"
-description = "Or: This is why we can't have nice things - Reddit Edition"
-draft = false
-tags = ['censorship']
-title = "Reddit No More: Why I Quit and Erased 5 Years of Posts"
-topics = ['Rants&Raves', 'Your Rights Online']
-
-+++
+---
+date: 2015-09-03T13:51:26-06:00
+description: 'Or: This is why we can''t have nice things - Reddit Edition'
+draft: false
+tags:
+- censorship
+title: 'Reddit No More: Why I Quit and Erased 5 Years of Posts'
+topics:
+- Rants&Raves
+- Your Rights Online
+---
 
 *Author note: This article has been slightly rewritten since its original posting on 2015/09/03 - mostly formatting and wording changes*
 

@@ -1,12 +1,13 @@
-+++
-date = "2015-03-27T13:47:26-06:00"
-description = "A cure worse than the disease?"
-draft = false
-tags = []
-title = "Social Justice 'Censorship'"
-topics = ['Social Justice', 'GamerGate']
-
-+++
+---
+date: 2015-03-27T13:47:26-06:00
+description: A cure worse than the disease?
+draft: false
+tags: []
+title: Social Justice 'Censorship'
+topics:
+- Social Justice
+- GamerGate
+---
 
 If you've followed the news at all recently, you've probably heard of a few incidents in the tech and entertainment worlds. [GamerGate](http://wiki.gamergate.me/index.php/GamerGate) comes to mind, as does the [resignation of Brendan Eich from Mozilla](https://blog.mozilla.org/blog/2014/04/05/faq-on-ceo-resignation/).
 

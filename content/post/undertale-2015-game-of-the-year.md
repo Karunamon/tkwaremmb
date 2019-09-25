@@ -1,12 +1,13 @@
-+++
-date = "2015-12-15T13:35:26-06:00"
-description = "GETTTTT DUNKED ON"
-draft = false
-tags = []
-title = "Undertale: 2015 game of the year"
-topics = ["The Vidya", 'Reviews']
-
-+++
+---
+date: 2015-12-15T13:35:26-06:00
+description: GETTTTT DUNKED ON
+draft: false
+tags: []
+title: 'Undertale: 2015 game of the year'
+topics:
+- The Vidya
+- Reviews
+---
 
 This game's definitely been making the rounds as of late. If you follow any gaming sites at all, you've probably been seeing [8 bit dogs](http://i.imgur.com/oraH9kw.jpg), [one-eyed skeletons](http://41.media.tumblr.com/46a33492af24bd02250e40f037791fd2/tumblr_nw0e0v5cSR1r5tic9o6_1280.png), [blue fish women](http://41.media.tumblr.com/0300f641fc58088cad2caa29fdf87822/tumblr_nvkikq6PUd1tagw8xo1_1280.jpg), other [random black and white characters](https://gamedonut.files.wordpress.com/2015/09/xscreen2.png), and wondering what in the sweet merciful hell the internet has gotten itself enamored with this week.
 

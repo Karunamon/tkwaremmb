@@ -1,12 +1,13 @@
-+++
-date = "2016-05-19T06:22:35-07:00"
-description = "Taking encouragement as insult is a sure sign of being a loser"
-draft = false
-tags = ['article-response']
-title = "GIT GUD: A call to elevate your play"
-topics = ["The Vidya"]
-
-+++
+---
+date: 2016-05-19T06:22:35-07:00
+description: Taking encouragement as insult is a sure sign of being a loser
+draft: false
+tags:
+- article-response
+title: 'GIT GUD: A call to elevate your play'
+topics:
+- The Vidya
+---
 
 Another day, another slew of posts on the web crapping on gamers.
 

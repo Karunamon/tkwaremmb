@@ -1,12 +1,14 @@
-+++
-date = "2014-11-19T14:25:26-06:00"
-description = "A mafia shakedown, coming to a website near you"
-draft = false
-tags = ['Security', 'Scams']
-title = "The Certificate Authority Racket"
-topics = ["Tech"]
-
-+++
+---
+date: 2014-11-19T14:25:26-06:00
+description: A mafia shakedown, coming to a website near you
+draft: false
+tags:
+- Security
+- Scams
+title: The Certificate Authority Racket
+topics:
+- Tech
+---
 
 With Google's move to begin interpreting SSL encryption as a factor that goes
 into determining a site's rank, no doubt the webmasters of the world are beating

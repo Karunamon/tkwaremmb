@@ -1,12 +1,14 @@
-+++
-date = "2016-05-08T14:22:46-06:00"
-description = "Is 79 characters per line really enough in 2016?"
-draft = false
-tags = ['python']
-title = "A case for increasing pep8 line limits"
-topics = ['Tech', 'Rants & Raves']
-
-+++
+---
+date: 2016-05-08T14:22:46-06:00
+description: Is 79 characters per line really enough in 2016?
+draft: false
+tags:
+- python
+title: A case for increasing pep8 line limits
+topics:
+- Tech
+- Rants & Raves
+---
 
 After some work on
 [a recent project](https://docker.io/karunamon/concourse-resource-bitbucket),

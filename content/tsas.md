@@ -1,12 +1,12 @@
-+++
-date = "2016-04-21T13:24:53-06:00"
-description = "A tool for scoring your days"
-draft = false
-tags = []
-title = "TKWare Self Assessment System"
-topics = []
+---
+date: 2016-04-21T13:24:53-06:00
+description: A tool for scoring your days
+draft: false
+tags: []
+title: TKWare Self Assessment System
+topics: []
+---
 
-+++
 TSAS is scoring method I devised to quantify the quality of a day in my life. The idea is, while filling out a journal, contemplate various bits of the day and assign a set of categories a score between 1 and 4. There are six categories, each named to fit a memorable acronym: **HALOES**, standing for Health, Energy, sLeep, Overall, Energy, Synch.
 
 Think of the ratings as a sliding scale with the following words attached:

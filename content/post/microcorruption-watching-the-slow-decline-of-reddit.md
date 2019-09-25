@@ -1,12 +1,14 @@
-+++
-date = "2016-08-01T17:18:50-06:00"
-description = "The decline of the 'front page of the internet' continues"
-draft = false
-tags = ['reddit']
-title = "Microcorruption: Watching the slow decline of Reddit"
-topics = ['politics', 'corruption']
-
-+++
+---
+date: 2016-08-01T17:18:50-06:00
+description: The decline of the 'front page of the internet' continues
+draft: false
+tags:
+- reddit
+title: 'Microcorruption: Watching the slow decline of Reddit'
+topics:
+- politics
+- corruption
+---
 
 Reddit has, again, astounded me with the depths of awful behavior they continue to plumb as the days and hours go on. If they're not [boosting certain political candidates and suppressing others](https://www.reddit.com/r/The_Donald/comments/4uxqa7/reddit_has_removed_the_trump_iama_from_the_top_of/), or [suppressing posts about a political candidate because they're too damn popular](http://www.breitbart.com/tech/2016/07/30/reddit-admins-accused-of-censoring-donald-trump-ama/), or [engaging in blatant politically-motivated censorship](http://www.foxnews.com/tech/2016/05/16/reddit-administrators-accused-censorship.html) now they've stooped to [locking out all non-American schools in their "secret Santa" exchange](https://www.reddit.com/r/blog/comments/4vo7is/reddit_gifts_for_the_teachers_2016_has_arrived_in/d5zzzou), known as Reddit Gifts.
 
