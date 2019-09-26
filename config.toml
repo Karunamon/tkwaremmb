@@ -7,7 +7,7 @@ copyright = "Copyright:<br>Words: <a rel='license' href='http://creativecommons.
 canonifyurls = true
 paginate = 3
 theme = "Blackburn"
-
+publishDir = "/var/www/html/
 
 [permalinks]
 post = "/:year/:month/:day/:title/"
