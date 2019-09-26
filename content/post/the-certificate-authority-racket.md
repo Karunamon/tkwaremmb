@@ -143,7 +143,7 @@ shame if SOMETHING WERE TO HAPPEN TO IT". If you say "to hell with this" and
 allow the cert to expire?
 
 {{<figure
-src="https://tkware.info/wp-content/uploads/2014/11/panda-ssl-cert-chrome.jpg"
+src="/img/panda-ssl-cert-chrome.jpg"
 caption="You get scary warnings like this">}}
 
 It's not like the connection is unencrypted or your identity changed, nope, just

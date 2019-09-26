@@ -12,6 +12,8 @@ topics:
 
 *Author note: This article has been slightly rewritten since its original posting on 2015/09/03 - mostly formatting and wording changes*
 
+{{<figure src="/img/RedditProhibited.png">}}
+	
 Ah reddit.. the front page of the internet.. once [described by its founders](http://www.bbc.com/news/technology-19975375) as a place for free speech and free discussion.
 
 Until 2015. 2015 brought us the age of mass censorship, lies upon lies, and the exposure of the full depth of the corruption of the moderators of Reddit's default communities (those seen when not logged into the site, which represents the great majority of their users.)

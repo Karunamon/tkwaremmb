@@ -77,4 +77,4 @@ sed -i -e '8,47d' Unibeast170/dsmos.pkg/Scripts/preinstall
 
 You’ll lose the cute googly eyes on the installer, but alas, such is the price of freedom :)
 
-{{<figure src="https://tkware.info/img/yodawgcracks.jpg">}}
+{{<figure src="/img/yodawgcracks.jpg">}}
