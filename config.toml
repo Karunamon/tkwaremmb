@@ -6,7 +6,7 @@ author = "Michael Parks"
 copyright = "Copyright:<br>Words: <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'><i class='fa fa-creative-commons' aria-hidden='true'></i>BY SA 4.0</a><br>Code: <a href='http://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0</a>"
 canonifyurls = true
 paginate = 3
-theme = "Blackburn"
+theme = "blackburn"
 publishDir = "/var/www/html/"
 
 [permalinks]
